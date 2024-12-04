@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Pytagotech - Portfolio Details</title>
+
+    <!-- Favicons -->
+    <link href="assets/img/pyta_logo.png" rel="icon" />
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com" rel="preconnect" />
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Vendor CSS Files -->
+    <link
+      href="assets/vendor/bootstrap/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="assets/vendor/bootstrap-icons/bootstrap-icons.css"
+      rel="stylesheet"
+    />
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
+    <link
+      href="assets/vendor/glightbox/css/glightbox.min.css"
+      rel="stylesheet"
+    />
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+    <link href="assets/css/main.css" rel="stylesheet" />
+
+    <style>
+      /* Custom CSS to ensure single-image display and responsive size */
+      .portfolio-details-slider {
+        width: 100%;
+        max-width: 800px;
+        margin: 0 auto;
+        position: relative;
+      }
+
+      .portfolio-details-slider img {
+        width: 100%;
+        height: auto;
+        max-height: 400px;
+        object-fit: contain; /* Ensure full image without cropping */
+        display: block;
+        margin: auto;
+      }
+
+      .swiper-pagination {
+        position: absolute;
+        bottom: 10px;
+        left: 0;
+        right: 0;
+        text-align: center;
+        z-index: 10;
+      }
+
+      @media (max-width: 768px) {
+        .portfolio-details-slider img {
+          max-height: 300px;
+        }
+      }
+
+      @media (max-width: 576px) {
+        .portfolio-details-slider img {
+          max-height: 200px;
+        }
+      }
+    </style>
+  </head>
+  <body class="portfolio-details-page">
+    <!-- Header -->
+    <header id="header" class="header d-flex align-items-center sticky-top">
+      <div
+        class="container-fluid position-relative d-flex align-items-center justify-content-between"
+      >
+        <a href="index.html" class="logo d-flex align-items-center">
+          <h1 class="sitename">Pytagotech</h1>
+          <span>.</span>
+        </a>
+        <nav id="navmenu" class="navmenu">
+          <ul>
+            <li><a href="index.html#hero" class="active">Home</a></li>
+            <li><a href="index.html#about">About</a></li>
+            <li><a href="index.html#services">Service</a></li>
+            <li><a href="index.html#project">Project</a></li>
+            <li><a href="index.html#testimonials">Testimonial</a></li>
+            <li><a href="index.html#contact">Contact</a></li>
+          </ul>
+          <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="app" class="main">
+      <section id="portfolio-details" class="portfolio-details section">
+        <div class="container">
+          <div class="portfolio-details-slider swiper" data-aos="fade-up">
+            <script type="application/json" class="swiper-config">
+              {
+                "loop": true,
+                "speed": 600,
+                "autoplay": {
+                  "delay": 5000
+                },
+                "slidesPerView": 1,
+                "navigation": {
+                  "nextEl": ".swiper-button-next",
+                  "prevEl": ".swiper-button-prev"
+                },
+                "pagination": {
+                  "el": ".swiper-pagination",
+                  "type": "bullets",
+                  "clickable": true
+                }
+              }
+            </script>
+            <div class="swiper-wrapper">
+              <div
+                class="swiper-slide"
+                v-for="img in project.images"
+                :key="img"
+              >
+                <img :src="img" alt="Project Image" />
+              </div>
+            </div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-pagination"></div>
+          </div>
+
+          <div class="row justify-content-between gy-4 mt-4">
+            <div class="col-lg-8">
+              <div class="portfolio-description">
+                <h2>{{ project.title }}</h2>
+                <p>{{ project.description }}</p>
+              </div>
+            </div>
+
+            <div class="col-lg-3">
+              <div class="portfolio-info">
+                <h3>Project Information</h3>
+                <ul>
+                  <li><strong>Category:</strong> {{ project.category }}</li>
+                  <li><strong>Client:</strong> {{ project.client }}</li>
+                  <li>
+                    <strong>Project Date:</strong> {{ project.projectDate }}
+                  </li>
+                  <li>
+                    <strong>Project URL:</strong>
+                    <a :href="project.projectUrl" target="_blank"
+                      >{{ project.projectUrl }}</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer id="footer" class="footer">
+      <div class="copyright text-center">
+        <div
+          class="container d-flex flex-column flex-lg-row justify-content-between align-items-center"
+        >
+          <div>
+            © Copyright <strong>Pytagotech</strong>. All Rights Reserved
+          </div>
+          <div class="social-links order-first order-lg-last mb-3 mb-lg-0">
+            <a href="https://wa.me/6289687304266"
+              ><i class="bi bi-whatsapp"></i
+            ></a>
+            <a href="mailto:pytagotech@gmail.com"
+              ><i class="bi bi-envelope"></i
+            ></a>
+            <a href="https://www.instagram.com/pytagotech"
+              ><i class="bi bi-instagram"></i
+            ></a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Scroll Top -->
+    <a
+      href="#"
+      id="scroll-top"
+      class="scroll-top d-flex align-items-center justify-content-center"
+      ><i class="bi bi-arrow-up-short"></i
+    ></a>
+
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/js/main.js"></script>
+
+    <!-- Vue.js -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        new Vue({
+          el: "#app",
+          data: {
+            project: {},
+          },
+          created() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const projectId = parseInt(urlParams.get("id"));
+            fetch("projects.json")
+              .then((response) => {
+                if (!response.ok) {
+                  throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+              })
+              .then((data) => {
+                this.project = data.find((project) => project.id === projectId);
+                if (!this.project) {
+                  console.error("Project not found with ID:", projectId);
+                }
+              })
+              .catch((error) => {
+                console.error("Error fetching project data:", error);
+              });
+          },
+          mounted() {
+            this.$nextTick(() => {
+              new Swiper(
+                ".portfolio-details-slider",
+                JSON.parse(document.querySelector(".swiper-config").textContent)
+              );
+            });
+          },
+        });
+      });
+    </script>
+  </body>
+</html>

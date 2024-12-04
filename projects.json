@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "title": "Rainplorer",
+    "description": "Aplikasi ini adalah media pembelajaran interaktif yang dirancang untuk memudahkan pengguna memahami siklus air dengan cara seru dan menyenangkan. Dilengkapi dengan animasi menarik dan tombol interaktif, aplikasi ini menjelaskan setiap tahap siklus air, mulai dari penguapan hingga air kembali ke bumi. Karakter-karakter lucu seperti awan dan matahari memberikan penjelasan tentang proses-proses penting, membuat pembelajaran lebih hidup dan mudah dipahami. Selain penjelasan visual, aplikasi ini juga menyediakan video berkualitas tinggi yang menggambarkan seluruh siklus air dengan narasi yang jelas. Pengguna bisa menguji pemahaman mereka melalui kuis interaktif yang dilengkapi dengan animasi untuk setiap jawaban, serta game bertema siklus air, di mana pengguna berperan sebagai tetesan air yang menjelajahi tahapan siklus sambil menghindari rintangan. Aplikasi ini menggabungkan pembelajaran dan permainan, menjadikannya sangat cocok untuk anak-anak sekolah dasar maupun orang dewasa yang ingin belajar dengan cara yang lebih menarik.",
+    "images": [
+      "assets/img/portfolio/details/rainplorer/1.png",
+      "assets/img/portfolio/details/rainplorer/2.png",
+      "assets/img/portfolio/details/rainplorer/3.png",
+      "assets/img/portfolio/details/rainplorer/4.png",
+      "assets/img/portfolio/details/rainplorer/5.png",
+      "assets/img/portfolio/details/rainplorer/6.png"
+    ],
+    "category": "Aplikasi Media Pembelajaran",
+    "client": "R*****",
+    "projectDate": "15 Juni, 2024",
+    "projectUrl": "https://pytagotech.github.io/Rainplorer/"
+  },
+  {
+    "id": 2,
+    "title": "E-Monogen",
+    "description": "Aplikasi ini adalah media pembelajaran yang dirancang untuk mengajarkan nilai-nilai Pancasila dengan cara yang interaktif dan menyenangkan. Konsep pembelajaran yang digunakan adalah melalui permainan mirip game monopoli, di mana setiap langkah permainan akan memperkenalkan berbagai nilai yang terkandung dalam Pancasila. Aplikasi ini tidak hanya menghadirkan elemen permainan, tetapi juga memberikan penilaian langsung dari guru, sehingga proses belajar dapat dipantau dan dievaluasi dengan lebih baik. Aplikasi ini sangat cocok digunakan dalam lingkungan sekolah, di mana guru dapat mengarahkan dan mengawasi langsung proses pembelajaran. Dengan adanya fitur penilaian langsung, kuis, dan soal uraian, aplikasi ini memastikan bahwa siswa dapat belajar sambil bermain dan memahami lebih dalam nilai-nilai yang sangat penting bagi kehidupan berbangsa dan bernegara.",
+    "images": [
+      "assets/img/portfolio/details/monogen/1.png",
+      "assets/img/portfolio/details/monogen/2.png",
+      "assets/img/portfolio/details/monogen/3.png",
+      "assets/img/portfolio/details/monogen/4.png",
+      "assets/img/portfolio/details/monogen/5.png",
+      "assets/img/portfolio/details/monogen/6.png",
+      "assets/img/portfolio/details/monogen/7.png",
+      "assets/img/portfolio/details/monogen/8.png"
+    ],
+    "category": "Aplikasi Media Pembelajaran",
+    "client": "F****",
+    "projectDate": "10 Agustus, 2024",
+    "projectUrl": "https://pytagotech.github.io/E_Monogen/"
+  },
+  {
+    "id": 3,
+    "title": "Gamekosistem",
+    "description": "Gamekosistem adalah aplikasi pembelajaran interaktif yang membantu siswa memahami ekosistem dengan cara yang seru. Siswa dapat membuat ekosistem mereka sendiri dengan memilih berbagai komponen biotik dan abiotik seperti hewan, tumbuhan, air, tanah, dan lainnya. Setiap ekosistem dilengkapi dengan suara latar yang realistis seperti hutan atau gemericik air untuk membuat pembelajaran lebih hidup. Aplikasi ini juga memiliki fitur penjadwalan kegiatan, di mana siswa dapat merencanakan aktivitas seperti waktu makan hewan atau fotosintesis tumbuhan, membantu mereka memahami keseimbangan ekosistem. Ada juga fitur soal assessment dan soal uraian untuk menguji pemahaman siswa tentang konsep ekosistem. Dengan fitur drag and drop yang sederhana, Gamekosistem memungkinkan siswa untuk mengkreasikan ekosistem sambil belajar hubungan antar komponennya. Aplikasi ini cocok untuk siswa sekolah dasar dan menengah untuk belajar konsep ekosistem secara kreatif dan menyenangkan.",
+    "images": [
+      "assets/img/portfolio/details/gamekosistem/1.png",
+      "assets/img/portfolio/details/gamekosistem/2.png",
+      "assets/img/portfolio/details/gamekosistem/3.png",
+      "assets/img/portfolio/details/gamekosistem/4.png",
+      "assets/img/portfolio/details/gamekosistem/5.png",
+      "assets/img/portfolio/details/gamekosistem/6.png"
+    ],
+    "category": "Aplikasi Media Pembelajaran",
+    "client": "T****",
+    "projectDate": "05 Oktober, 2024",
+    "projectUrl": "https://pytagotech.github.io/Gamekosistem/"
+  },
+  {
+    "id": 4,
+    "title": "Distrik",
+    "description": "Aplikasi ini merupakan media pembelajaran yang dirancang untuk membantu siswa memahami konsep listrik dengan cara yang interaktif dan menyenangkan. Di dalam aplikasi ini, siswa akan dibimbing oleh karakter-karakter yang mengajak mereka dalam percakapan mengenai listrik, sehingga materi yang disampaikan lebih menarik dan mudah dipahami. Aplikasi ini juga menyajikan penjelasan berupa animasi video yang menarik. Animasi video ini membantu siswa untuk lebih memahami konsep listrik secara visual. Materi yang dijelaskan mencakup apa itu listrik, sumber-sumber listrik, dan berbagai jenis pembangkit listrik yang ada di Indonesia. Dengan adanya animasi, siswa dapat melihat bagaimana listrik dihasilkan, misalnya melalui pembangkit listrik tenaga air (PLTA), pembangkit listrik tenaga surya (PLTS), pembangkit listrik tenaga uap (PLTU), dan lainnya. Dengan perpaduan percakapan interaktif, karakter yang lucu dan informatif, serta animasi video yang jelas, aplikasi ini dirancang untuk membuat pembelajaran listrik lebih menyenangkan dan mudah dipahami. Aplikasi ini cocok untuk siswa sekolah dasar yang ingin belajar tentang konsep dasar listrik, dari mana asalnya, hingga bagaimana listrik bisa sampai ke rumah-rumah kita. Dengan metode yang interaktif, konsep yang mungkin terlihat sulit akan menjadi lebih sederhana dan menyenangkan untuk dipelajari.",
+    "images": [
+      "assets/img/portfolio/details/distrik/1.png",
+      "assets/img/portfolio/details/distrik/2.png",
+      "assets/img/portfolio/details/distrik/3.png",
+      "assets/img/portfolio/details/distrik/4.png",
+      "assets/img/portfolio/details/distrik/5.png"
+    ],
+    "category": "Aplikasi Media Pembelajaran",
+    "client": "I******",
+    "projectDate": "24 Juli, 2024",
+    "projectUrl": "https://pytagotech.github.io/Distrik/"
+  },
+  {
+    "id": 5,
+    "title": "Pintar",
+    "description": "Aplikasi ini adalah media pembelajaran yang dirancang untuk membantu siswa memahami konsep pembagian dengan cara yang mudah dan menyenangkan. Dalam aplikasi ini, siswa diajak untuk belajar melalui fitur drag and drop yang interaktif, di mana mereka bisa menyeret dan meletakkan angka-angka ke dalam kotak yang sesuai untuk menyelesaikan soal pembagian. Dengan fitur drag and drop ini, siswa dapat berpikir secara aktif untuk mencari angka yang cocok dengan hasil pembagian yang diberikan. Misalnya, jika ada soal \"15 dibagi 3 sama dengan...?\", siswa dapat memilih dari beberapa pilihan angka yang tersedia dan menyeret angka yang menurut mereka benar ke dalam kotak jawaban. Ini membantu mereka belajar sambil bermain dan memahami konsep pembagian secara lebih visual. Aplikasi pembelajaran pembagian ini sangat cocok untuk anak-anak di sekolah dasar yang baru mulai belajar tentang konsep pembagian, atau untuk mereka yang ingin memperkuat pemahaman mereka dengan cara yang interaktif dan menyenangkan. Dengan bermain dan belajar melalui fitur drag and drop, konsep pembagian yang terkadang sulit akan menjadi lebih mudah dipahami oleh siswa.",
+    "images": [
+      "assets/img/portfolio/details/pintar/1.png",
+      "assets/img/portfolio/details/pintar/2.png",
+      "assets/img/portfolio/details/pintar/3.png",
+      "assets/img/portfolio/details/pintar/4.png",
+      "assets/img/portfolio/details/pintar/5.png",
+      "assets/img/portfolio/details/pintar/6.png"
+    ],
+    "category": "Aplikasi Media Pembelajaran",
+    "client": "V****",
+    "projectDate": "15 Agustus, 2024",
+    "projectUrl": "https://pytagotech.github.io/Pintar/"
+  },
+  {
+    "id": 6,
+    "title": "Laundry",
+    "description": "Aplikasi mobile laundry ini dirancang untuk memberikan kemudahan bagi pengguna dalam mengakses berbagai layanan laundry. Pengguna dapat melakukan login untuk mengelola akun mereka dan mengakses fitur-fitur lainnya. Setelah masuk, mereka bisa memilih layanan laundry sesuai kebutuhan, seperti cuci kering, cuci setrika, dan lainnya. Aplikasi ini juga menyediakan riwayat pesanan yang memungkinkan pengguna melacak layanan laundry yang telah digunakan sebelumnya, beserta rincian lengkap dari setiap pesanan yang telah dibuat. Selain itu, aplikasi mendukung berbagai metode pembayaran, baik melalui transfer bank, kartu kredit, atau pembayaran digital lainnya. Pengguna juga dapat menentukan jadwal pengambilan pakaian sesuai kenyamanan mereka, membuat proses laundry menjadi lebih fleksibel dan efisien.",
+    "images": [
+      "assets/img/portfolio/details/laundry/1.png",
+      "assets/img/portfolio/details/laundry/2.png",
+      "assets/img/portfolio/details/laundry/3.png"
+    ],
+    "category": "Aplikasi Mobile",
+    "client": "Z*****",
+    "projectDate": "7 September, 2024",
+    "projectUrl": "-"
+  },
+  {
+    "id": 11,
+    "title": "Kos Bu Ham",
+    "description": "Kosbuham menyediakan penyewaan kamar yang nyaman dan terjangkau dengan fasilitas lengkap seperti Wi-Fi cepat, TV, perlengkapan dapur, dan keamanan 24 jam. Terletak strategis dekat dengan kampus, pusat perbelanjaan, dan transportasi umum, Kosbuham menawarkan lingkungan yang aman dan bersih, cocok untuk mahasiswa, profesional, maupun keluarga. Tempat ini merupakan pilihan yang tepat untuk tinggal dalam jangka pendek maupun panjang.",
+    "images": [
+      "assets/img/portfolio/details/kosbuham/1.png",
+      "assets/img/portfolio/details/kosbuham/2.png",
+      "assets/img/portfolio/details/kosbuham/3.png",
+      "assets/img/portfolio/details/kosbuham/4.png"
+    ],
+    "category": "Website Company Profile",
+    "client": "H*****",
+    "projectDate": "28 Juli, 2024",
+    "projectUrl": "https://kosbuham.com/"
+  },
+  {
+    "id": 12,
+    "title": "Leadership International",
+    "description": "Leadership Nasional adalah mitra bisnis yang fokus pada transformasi bisnis berkelanjutan serta manajemen risiko, tata kelola, dan kepatuhan (GRC). Dengan lebih dari 100 proyek konsultasi dan 20.000+ peserta sejak tahun 2013, mereka menawarkan pelatihan profesional di berbagai bidang. Pendekatan mereka menggabungkan sistem online dan hybrid, memberikan fleksibilitas dalam pembelajaran. Misi Leadership Nasional adalah mendorong pertumbuhan, keberlanjutan, kolaborasi, dan keunggulan teknis. Tim yang bersertifikat menyediakan pelatihan berkualitas tinggi dalam berbagai sertifikasi dan pengembangan keterampilan.",
+    "images": [
+      "assets/img/portfolio/details/leadership/1.png",
+      "assets/img/portfolio/details/leadership/2.png",
+      "assets/img/portfolio/details/leadership/3.png"
+    ],
+    "category": "Website Company Profile",
+    "client": "******",
+    "projectDate": "28 Juli, 2022",
+    "projectUrl": "https://leadershipnasional.com/"
+  },
+  {
+    "id": 21,
+    "title": "Smart Trash Bin",
+    "description": "Tempat sampah otomatis dengan fitur suara saat membuka dan menutup serta sensor jarak adalah inovasi yang memudahkan penggunaan tempat sampah tanpa perlu menyentuhnya, serta memberikan pengalaman yang lebih interaktif.",
+    "images": ["assets/img/portfolio/trashbin.png"],
+    "category": "IoT",
+    "client": "******",
+    "projectDate": "21 Juli, 2024",
+    "projectUrl": "-"
+  },
+  {
+    "id": 22,
+    "title": "Penyiram Tanaman Otomatis",
+    "description": "Penyiram tanaman otomatis berbasis Arduino adalah proyek teknologi yang memanfaatkan sensor kelembaban tanah untuk mendeteksi kebutuhan air pada tanaman dan kemudian mengaktifkan sistem penyiraman secara otomatis. Sistem ini dapat membantu dalam merawat tanaman dengan cara yang efisien dan mengurangi kebutuhan penyiraman manual, sehingga tanaman selalu mendapatkan jumlah air yang tepat sesuai kebutuhan mereka.",
+    "images": ["assets/img/portfolio/plant.png"],
+    "category": "IoT",
+    "client": "******",
+    "projectDate": "6 Agustus, 2024",
+    "projectUrl": "-"
+  },
+  {
+    "id": 23,
+    "title": "Obstacle Avoidance Car",
+    "description": "Mobil penghindar rintangan (Obstacle Avoidance Car) berbasis Arduino adalah proyek robotik yang menggunakan sensor untuk mendeteksi rintangan di depan mobil dan kemudian membuat keputusan untuk menghindarinya, seperti berbelok atau mundur. Proyek ini dapat dibangun dengan menggunakan berbagai jenis sensor dan motor untuk menggerakkan mobil.",
+    "images": ["assets/img/portfolio/car.png"],
+    "category": "IoT",
+    "client": "******",
+    "projectDate": "15 Mei, 2024",
+    "projectUrl": "-"
+  },
+  {
+    "id": 24,
+    "title": "Fingerprint Door Lock",
+    "description": "Sistem fingerprint doorlock solenoid AS608 merupakan sebuah perangkat keamanan yang menggunakan teknologi sidik jari untuk membuka pintu, menggantikan sistem kunci tradisional. Sistem ini mengintegrasikan dua komponen utama: sensor sidik jari AS608 dan kunci solenoid yang bekerja secara elektronik untuk membuka atau mengunci pintu secara otomatis.",
+    "images": ["assets/img/portfolio/doorlock.png"],
+    "category": "IoT",
+    "client": "******",
+    "projectDate": "29 Maret, 2024",
+    "projectUrl": "-"
+  },
+  {
+    "id": 25,
+    "title": "Pengukur Jarak Otomatis",
+    "description": "istem pengukur jarak otomatis menggunakan Arduino adalah proyek elektronik yang memanfaatkan sensor ultrasonik untuk mengukur jarak antara perangkat dan objek di depannya. Sistem ini bekerja berdasarkan prinsip pantulan gelombang suara dan dapat digunakan dalam berbagai aplikasi seperti parkir mobil, pengukuran ruang, atau bahkan sebagai bagian dari robotik.",
+    "images": ["assets/img/portfolio/penggaris.png"],
+    "category": "Arduino",
+    "client": "******",
+    "projectDate": "23 Juni, 2024",
+    "projectUrl": "-"
+  }
+]
